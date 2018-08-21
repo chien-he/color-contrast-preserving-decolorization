@@ -7,7 +7,7 @@ Wuhan University of Science and Technology, China
 
 Email: 1300027@wust.edu.cn
 
-This code is decribed in "Color Contrast-Preserving Decolorization", IEEE transaction on Image processing, 2018.
+This code is described in "Color Contrast-Preserving Decolorization", IEEE transaction on Image processing, 2018.
 [paper link](https://ieeexplore.ieee.org/document/8410589/)
 
 
