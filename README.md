@@ -1,4 +1,4 @@
-# color-contrast-preserving-decolorization
+# Color-Contrast-Preserving-Decolorization
 By Wei Wang, Zhengguo Li and Shiqian Wu
 
 Institute for Infocomm Research, Singapore
