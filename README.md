@@ -31,8 +31,6 @@ number={11},
 
 pages={5464-5474}, 
 
-keywords={Image color analysis;Cost function;Color;Gray-scale;Complexity theory;Mobile handsets;Perceptual decolorization;color contrast;color fidelity;C2G-SSIM;linear mapping function}, 
-
 doi={10.1109/TIP.2018.2855424}, 
 
 ISSN={1057-7149}, 
