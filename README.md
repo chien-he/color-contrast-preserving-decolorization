@@ -7,7 +7,7 @@ Wuhan University of Science and Technology, China
 
 Email: 1300027@wust.edu.cn
 
-This code is decribed in "Color Contrast-Preserving Decolorization",IEEE transaction on Image processing, 2018.
+This code is decribed in "Color Contrast-Preserving Decolorization", IEEE transaction on Image processing, 2018.
 [paper link](https://ieeexplore.ieee.org/document/8410589/)
 
 
@@ -16,14 +16,25 @@ Decolorization is to convert a color image into a gray scale image while preserv
 
 ## Citation:
 @ARTICLE{8410589, 
+
 author={W. Wang and Z. Li and S. Wu}, 
+
 journal={IEEE Transactions on Image Processing}, 
+
 title={Color Contrast-Preserving Decolorization}, 
+
 year={2018}, 
+
 volume={27}, 
+
 number={11}, 
+
 pages={5464-5474}, 
+
 keywords={Image color analysis;Cost function;Color;Gray-scale;Complexity theory;Mobile handsets;Perceptual decolorization;color contrast;color fidelity;C2G-SSIM;linear mapping function}, 
+
 doi={10.1109/TIP.2018.2855424}, 
+
 ISSN={1057-7149}, 
+
 month={Nov},}
