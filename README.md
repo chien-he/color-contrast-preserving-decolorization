@@ -1,7 +1,10 @@
 # color-contrast-preserving-decolorization
 By Wei Wang, Zhengguo Li and Shiqian Wu
+
 Institute for Infocomm Research, Singapore
+
 Wuhan University of Science and Technology, China
+
 Email: 1300027@wust.edu.cn
 
 This code is decribed in "Color Contrast-Preserving Decolorization",IEEE transaction on Image processing, 2018.
